@@ -1,19 +1,13 @@
 ﻿## Golek Kewan
-### Learn how to spell animal names in Javanese
-----
 
 ### Explanation
 
-a simple learning platform for children ages 4 - 8 years old, using images and striking visuals.  
+a simple learning platform to learn how to spell animal names in Javanesefor children ages 4 - 8 years old, using images and striking visuals.  
 
 ### Gameplay Screenshots
 
 #### Start Screen
-![startscreen](http://cl.ly/P7W6/golekKewan---SS.png)
-#### Play Screen
-![playscreen](http://cl.ly/P770/golekKewan---SS2.png)
-#### Log Screen
-![logscreen](http://cl.ly/P7Jq/golekKewan---SS3.png)
+![startscreen](http://cl.ly/P7W6/golekKewan---SS.png) ![playscreen](http://cl.ly/P770/golekKewan---SS2.png) ![logscreen](http://cl.ly/P7Jq/golekKewan---SS3.png)
 
 ### Technical Explanations
 
