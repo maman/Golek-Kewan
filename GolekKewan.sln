@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GolekKewan", "GolekKewan\GolekKewan.vbproj", "{EA631EE1-E7CC-4329-B169-AD7E4855614F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA631EE1-E7CC-4329-B169-AD7E4855614F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{EA631EE1-E7CC-4329-B169-AD7E4855614F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{EA631EE1-E7CC-4329-B169-AD7E4855614F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA631EE1-E7CC-4329-B169-AD7E4855614F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

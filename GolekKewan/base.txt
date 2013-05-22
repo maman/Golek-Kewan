@@ -1,0 +1,13 @@
+﻿Gajah,gajah is elephant in javanese,0,R0
+Macan,macan means tiger,1,R0
+Jaran,jaran means horse,2,R1
+Bebek,bebek means duck,3,R0
+Tikus,tikus means mouse,4,R1
+Kirik,kirik means dog,5,R0
+Badak,badak means rhinoceros,6,R0
+Kadal,kadal means lizard,7,R1
+Kodok,kodok means frog,8,R1
+Merak,merak means peacock,9,R0
+Bulus,bulus means fleeced,10,R0
+Singo,singo means lion,11,R0
+Urang,urang means shrimp,12,R0
